@@ -1,2 +1,5 @@
-["1"] = {"ennvo","5Envo#0007"}
+local wls = {
+["1"] = {"Ennvo","5Envo#0007"}
 ["2"] = {"ZEXlTY","Ze#1735"}
+}
+return(wls)
