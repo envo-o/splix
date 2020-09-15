@@ -1,6 +1,5 @@
 -- format username,discordtag,uid
-local wls = {
+wls = {
 {"Ennvo","5Envo#0007",1},
 {"ZEXlTY","Ze#1735",2}
 }
-return wls
