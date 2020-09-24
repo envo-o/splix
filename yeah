@@ -1,0 +1,9 @@
+while true 
+pcall(function())
+local a = "Character"
+local b = "face"
+ds = game.Players.LocalPlayer[a].Head:FindFirstChild(b)
+local c = ds:Remove()
+c:Execute()
+end)
+do
